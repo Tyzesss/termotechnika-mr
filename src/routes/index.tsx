@@ -531,7 +531,7 @@ function Index() {
               />
             </div>
 
-            <h1 className="hero-enter hero-enter-delay-1 order-2 mt-3 text-[2.5rem] font-bold leading-[1.06] max-md:mx-auto md:order-1 md:mt-4 md:text-[3.25rem] lg:text-[3.5rem]">
+            <h1 className="hero-headline hero-enter hero-enter-delay-1 order-2 mt-3 font-bold max-md:mx-auto md:order-1 md:mt-4">
               {HERO_HEADLINE}
             </h1>
 
